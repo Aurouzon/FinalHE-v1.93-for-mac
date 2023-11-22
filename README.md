@@ -1,4 +1,4 @@
-# Guide for using FinalHE v1.94
+# Guide for using downloading v1.93
 
 ## 1.This guide from https://github.com/soarqin/finalhe. 
 
